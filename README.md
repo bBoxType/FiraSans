@@ -13,9 +13,9 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 ## Note:
 
-All weights below ”Thin“ use fractional coordinates which is an optical decision. Rendering engines might not be able to deal with that correctly. As for that, these weights should be seen as an experiment by now. If you notice any problems in smaller sizes please consider to use weights from thin.
+All weights below “Thin” use fractional coordinates which is an optical decision. Rendering engines might not be able to deal with that correctly. As for that, these weights should be seen as an experiment by now. If you notice any problems in smaller sizes please consider to use weights from thin.
 
-Weight ”Ultra“ is intended for extreme display usage. It is the result of an extrapolation (198 to 222) which is not optimized in typographical details. Please consider to use „Heavy“ instead if problems occur.
+Weight “Ultra” is intended for extreme display usage. It is the result of an extrapolation (198 to 222) which is not optimized in typographical details. Please consider to use “Heavy” instead if problems occur.
 
 ### FIRA font weights:
 
@@ -46,13 +46,13 @@ Weight ”Ultra“ is intended for extreme display usage. It is the result of an
 
 !!! THANK YOU !!! MERCI !!! DANKE !!! Dziękuję !!!  Gracias !!! Kiitos !!! Obrigado !!! Спасибо !!!
 
-_ Patryk Adamczyk and his colleagues at Mozilla Foundation and Mozilla Corporation for trust and huge support over the last years
-_ Christine Sunkel at EdenSpiekermann for project management, organization and her patience.
+- Patryk Adamczyk and his colleagues at Mozilla Foundation and Mozilla Corporation for trust and huge support over the last years
+- Christine Sunkel at EdenSpiekermann for project management, organization and her patience.
 
-_ Denis Jacquerye for stunning support concerning IPA and PAN African
-_ Prof. Dr. Sebastian Kempgen at Uni Bamberg for offering his expertise on Slavistic matters
-_ Georg Seifert, Andreas Eigendorf and Adam Twardoch for all-time technical support and advice
-_ Finally: the whole community who helped improving Fira via Mail, GitHub and FireBug!
+- Denis Jacquerye for stunning support concerning IPA and PAN African
+- Prof. Dr. Sebastian Kempgen at Uni Bamberg for offering his expertise on Slavistic matters
+- Georg Seifert, Andreas Eigendorf and Adam Twardoch for all-time technical support and advice
+- Finally: the whole community who helped improving Fira via Mail, GitHub and FireBug!
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
