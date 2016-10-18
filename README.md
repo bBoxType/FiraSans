@@ -73,7 +73,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 ### Fira Code 3.206
 
-_ Fira Mono 3.206 with less Line Space (1.0)
+_ Fira Code is Fira Mono 3.206 with less Line Space (1.0) – does not include programming ligatures 
 _ fixed bug #156 (swapped /BoxLightDown /BoxLightUp)
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
