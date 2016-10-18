@@ -2,9 +2,8 @@
 # Fira Code 3.2 * NEW *
 # Fira Mono 3.2
 
-## Fira is a trademark of The Mozilla Corporation.
-
-## Digitized data copyright © 2012-2016, The Mozilla Foundation and Telefonica S.A.
+Fira is a trademark of The Mozilla Corporation.
+Digitized data copyright © 2012-2016, The Mozilla Foundation and Telefonica S.A.
 
 ### Design 2012-2015: Carrois Corporate GbR & Edenspiekermann AG
 ### Design 2016 and later: Carrois Corporate GbR
@@ -59,9 +58,9 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 ### !!! NEXT STEPS !!! 
 
-_ Arabic _ in progress
-_ Hebrew _ in progress
-_ Mono 4.1 (Latin Extension) on pause
+- Arabic _ in progress
+- Hebrew _ in progress
+- Mono 4.1 (Latin Extension) on pause
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
@@ -73,30 +72,30 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 ### Fira Code 3.206
 
-_ Fira Code is Fira Mono 3.206 with less Line Space (1.0) – does not include programming ligatures 
-_ fixed bug #156 (swapped /BoxLightDown /BoxLightUp)
+- Fira Code is Fira Mono 3.206 with less Line Space (1.0) – does not include programming ligatures 
+- fixed bug #156 (swapped /BoxLightDown /BoxLightUp)
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 
 ### version/build 4.202 (Sans only)
 
-_ Fira Condensed & Fira Condensed Italic now covering complete Glyph range of Fira 4.1 (see below)
-_ New: Fira Compressed & Fira Compressed Italic
-_ Fira Sans Condensed slightly wider to locate in the middle of Normal and Condensed
-_ Glyphs source files of Fira Sans and Sans Italic now with 8 masters each, interpolation of width and weight possible
-_ Completely reworked kerning (including #154)
+- Fira Condensed & Fira Condensed Italic now covering complete Glyph range of Fira 4.1 (see below)
+- New: Fira Compressed & Fira Compressed Italic
+- Fira Sans Condensed slightly wider to locate in the middle of Normal and Condensed
+- Glyphs source files of Fira Sans and Sans Italic now with 8 masters each, interpolation of width and weight possible
+- Completely reworked kerning (including #154)
 
-_ Single-storey alternates for a and g accessible via .ss04 (#127)
-_ Addition of currency symbols (#55 – 101)
-_ Addition of ligatures ff, fj, ft, ffj, fft (#53 #180)
+- Single-storey alternates for a and g accessible via .ss04 (#127)
+- Addition of currency symbols (#55 – 101)
+- Addition of ligatures ff, fj, ft, ffj, fft (#53 #180)
 
-_ fixed bugs/requests mentioned on GitHub
-_#130 (/longs missing in Upright)
-_#121 (wrong letter – interpolation glitch)
-_#147 (Greek polytonic accents)
-_#171 (Style names)
-_#149 (Copyright string)
+- fixed bugs/requests mentioned on GitHub
+- _#130 (/longs missing in Upright)
+- _#121 (wrong letter – interpolation glitch)
+- _#147 (Greek polytonic accents)
+- _#171 (Style names)
+- _#149 (Copyright string)
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
