@@ -56,7 +56,7 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-### !!! NEXT STEPS !!! 
+### NEXT STEPS 
 
 - Arabic _ in progress
 - Hebrew _ in progress
@@ -68,6 +68,14 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 
 ## FIRA VERSION LOG
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+### version/build 4.203 (Sans only)
+
+- fixed #2 (LineHeight, Hinting) – thanks Ray
+- fixed #3 (Ligatures in Roman files) – thanks BonnEconLab
+- few optimized kerning pairs
+
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 ### Fira Code 3.206
@@ -90,7 +98,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 - Addition of currency symbols (#55 – 101)
 - Addition of ligatures ff, fj, ft, ffj, fft (#53 #180)
 
-- fixed bugs/requests mentioned on GitHub
+- fixed bugs/requests mentioned on GitHub:
 - _#130 (/longs missing in Upright)
 - _#121 (wrong letter – interpolation glitch)
 - _#147 (Greek polytonic accents)
@@ -230,7 +238,7 @@ _#49
 Mono r looks like dotlessi at small sizes 
 Thanks, rudd-v-a.
 
-#56
+_#56
 Cannot select Fira Mono as monospaced font under KDE 
 Note: 
 We exported nonspacing accents again. Recognition as „monospaced“ should work anyway due to a change in export routine in Glyphs. Please report if not!
