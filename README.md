@@ -181,7 +181,7 @@ This change affects existing layouts if default line height is selected.)
 
 Solved Issues tagged „BUG“ on GitHub 
 
-- #65
+- _#65
 CSS, Greek & Safari 
 Secure correct replacement of accented Greek uppercase/sc letters by unaccented letters via calt feature
 Thanks, wfdd
@@ -197,32 +197,32 @@ expand Fira Mono to comprise the following unicode blocs (added appr. 500 glyphs
 
 Each font of Fira Mono contains ~1500 glyphs now!
 
--  increase SB of /underscore (uni005F) and /underscoredbl (uni2017)
+- increase SB of /underscore (uni005F) and /underscoredbl (uni2017)
 Thanks, Fred Mora
 
--  introduce new /r (uni0072) > see # 49 GitHub
+- introduce new /r (uni0072) > see # 49 GitHub
 
--  add currency symbols (default, tosf)
+- add currency symbols (default, tosf)
 /Liraturkish (uni20BA) 
 /Ruble (uni20BD)
 /RupeeIndian (uni20B9)
 
--  edit /Yat-cy (uni0462) and Izhitsa-cy (uni0474 / uni0475) 
+- edit /Yat-cy (uni0462) and Izhitsa-cy (uni0474 / uni0475) 
 Thanks, Prof. Dr. Sebastian Kempgen
 
--  place varia and oxia before uc letters (e.g. uni1FBA / uni1FBB)
+- place varia and oxia before uc letters (e.g. uni1FBA / uni1FBB)
 Thanks, Prof. Dr. Sebastian Kempgen
 
--  new line height value see above 4.001
+- new line height value see above 4.001
 
 
 Solved Issues tagged „BUG“ on GitHub 
 
-- #49
+- _#49
 Mono r looks like dotlessi at small sizes 
 Thanks, rudd-v-a.
 
-- #56
+- _#56
 Cannot select Fira Mono as monospaced font under KDE 
 Note: 
 We exported nonspacing accents again. Recognition as „monospaced“ should work anyway due to a change in export routine in Glyphs. Please report if not!
@@ -231,35 +231,35 @@ Thanks, houserockr and Georg.
 
 ## version/build 4.004
 
--  add some Celtic characters, now providing full support for ISO-Latin 1–10 
--  add /literSign (uni2113) 
+- add some Celtic characters, now providing full support for ISO-Latin 1–10 
+- add /literSign (uni2113) 
 
--  increase lSB of /napostrophe (uni0149); introduce positive kerning between upper quotes and /napostrophe
+- increase lSB of /napostrophe (uni0149); introduce positive kerning between upper quotes and /napostrophe
 Thanks Friedel, Jonathan & Dwayne!
 
 Solved Issues tagged „BUG“ on GitHub 
 
-- #64
+- _#64
 Delete positive kerning between f and u 
 … Finally ;) 
 Thank you charakterziffer.
 
-- #74 
+- _#74 
 Shifted double quotes using WOFF file 
 Thank you mdesantis and Georg.
 
 
 ## version/build 4.003
 
--  increase space between apostrophe and n in /napostrophe (uni0149) 
+- increase space between apostrophe and n in /napostrophe (uni0149) 
 Thanks, Friedel!
 
--  fix few interpolation glitches
+- fix few interpolation glitches
 
 
 ## version/build 4.002
 
--  expand Fira to comprise the following unicode blocs (added another 200 glyphs since 4.001)
+- expand Fira to comprise the following unicode blocs (added another 200 glyphs since 4.001)
 
 Latin Extensions A (uni0100 – 017F)
 Latin Extensions B (uni0180 – 024F)
@@ -267,12 +267,12 @@ IPA Extensions (uni0250 – 02AF)
 
 Each font of Fira contains ~2100 glyphs now!
 
--  add anchors for combining accent support for IPA and Pan African
+- add anchors for combining accent support for IPA and Pan African
 Beta status!! 
 Please report if several combinations might not work due to missing anchors. We’ll fix it. Thanks!
 
--  set CSS weight class to 100 for weights thin and below
--  multiple minor improvements
+- set CSS weight class to 100 for weights thin and below
+- multiple minor improvements
 
 
 ## version/build 4.001
@@ -288,28 +288,28 @@ Add currency symbols (default, osf, tf, tosf)
 - /Ruble (uni20BD)
 - /RupeeIndian (uni20B9)
 
--  add /Germandbls (uni1E9E) + sc
--  multiple minor improvements
+- add /Germandbls (uni1E9E) + sc
+- multiple minor improvements
 
 - Mono Update will follow after extension of Romans and Italics to Cyr and Greek Extended.
 
 Issues tagged „BUG“ on GitHub 
 
-- #57
+- _#57
 line positioning in ie
 Vertical metrics of official version remains unchanged until the test version is confirmed by so0ft on GitHub.
 Setting typoLineGap to zero might lead to vertical metrics conflicts in other layouts/circumstances.
 
-- #59
+- _#59
 FsType indicating restricted embedding and subsetting 
 fsType was „editable“, now set to „not set“ (installable). Should solve the problem.
 Thank you n7s.
 
-- #64
+- _#64
 Delete positive kerning between f and u caused by a transfer glitch from FL to Glyphs
 Thank you charakterziffer.
 
-- #66
+- _#66
 Greek tonos capitals with negative SB
 Added some SB in the Black master of the following glyphs to ensure they don’t overlay the space in the bold weights. 
 Thank you wfdd.
