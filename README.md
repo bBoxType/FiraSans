@@ -43,7 +43,7 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 * Bold  		(158em / CSS 700)
 
 
-## !!! THANK YOU !!! MERCI !!! DANKE !!! Dziękuję !!!  Gracias !!! Kiitos !!! Obrigado !!! Спасибо !!!
+## ! THANK YOU ! MERCI ! DANKE ! Dziękuję !  Gracias ! Kiitos ! Obrigado ! Спасибо !
 
 - Patryk Adamczyk and his colleagues at Mozilla Foundation and Mozilla Corporation for trust and huge support over the last years
 - Christine Sunkel at EdenSpiekermann for project management, organization and her patience.
@@ -53,9 +53,6 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 - Georg Seifert, Andreas Eigendorf and Adam Twardoch for all-time technical support and advice
 - Finally: the whole community who helped improving Fira via Mail, GitHub and FireBug!
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-
 ## NEXT STEPS 
 
 - Arabic _ in progress
@@ -63,13 +60,9 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 - Mono 4.1 (Latin Extension) on pause
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-
 
 
 ## FIRA VERSION LOG
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 ## version/build 4.203 (Sans only)
 
