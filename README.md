@@ -67,11 +67,11 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 
 
-## FIRA VERSION LOG
+### FIRA VERSION LOG
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-### version/build 4.203 (Sans only)
+## version/build 4.203 (Sans only)
 
 - fixed #2 (LineHeight, Hinting) – thanks Ray
 - fixed #3 (Ligatures in Roman files) – thanks BonnEconLab
@@ -79,7 +79,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-### Fira Code 3.206
+## Fira Code 3.206
 
 - Fira Code is Fira Mono 3.206 with less Line Space (1.0) – does not include programming ligatures 
 - fixed bug #156 (swapped /BoxLightDown /BoxLightUp)
@@ -87,7 +87,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 
-### version/build 4.202 (Sans only)
+## version/build 4.202 (Sans only)
 
 - Fira Condensed & Fira Condensed Italic now covering complete Glyph range of Fira 4.1 (see below)
 - New: Fira Compressed & Fira Compressed Italic
