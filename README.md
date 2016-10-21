@@ -1,6 +1,6 @@
-# Fira Sans 4.2 * NEW *
-# Fira Code 3.2 * NEW *
-# Fira Mono 3.2
+## Fira Sans 4.2 * NEW *
+## Fira Code 3.2 * NEW *
+## Fira Mono 3.2
 
 Fira is a trademark of The Mozilla Corporation.
 Digitized data copyright © 2012-2016, The Mozilla Foundation and Telefonica S.A.
@@ -16,7 +16,7 @@ All weights below “Thin” use fractional coordinates which is an optical deci
 
 Weight “Ultra” is intended for extreme display usage. It is the result of an extrapolation (198 to 222) which is not optimized in typographical details. Please consider to use “Heavy” instead if problems occur.
 
-### FIRA font weights:
+## FIRA font weights:
 
 - Two 			(2em / CSS 100)
 - Four 			(4em / CSS 100)
@@ -36,14 +36,14 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 * Heavy 		(198em / CSS 900)
 - Ultra 		(222em / CSS 950)
 
-### FIRA MONO font weights:
+## FIRA MONO font weights:
 
 * Regular 	(84em / CSS 400)
 * Medium 		(112em / CSS 500)
 * Bold  		(158em / CSS 700)
 
 
-### !!! THANK YOU !!! MERCI !!! DANKE !!! Dziękuję !!!  Gracias !!! Kiitos !!! Obrigado !!! Спасибо !!!
+## !!! THANK YOU !!! MERCI !!! DANKE !!! Dziękuję !!!  Gracias !!! Kiitos !!! Obrigado !!! Спасибо !!!
 
 - Patryk Adamczyk and his colleagues at Mozilla Foundation and Mozilla Corporation for trust and huge support over the last years
 - Christine Sunkel at EdenSpiekermann for project management, organization and her patience.
@@ -56,7 +56,7 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-### NEXT STEPS 
+## NEXT STEPS 
 
 - Arabic _ in progress
 - Hebrew _ in progress
@@ -67,7 +67,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 
 
-### FIRA VERSION LOG
+## FIRA VERSION LOG
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
