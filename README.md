@@ -197,28 +197,21 @@ Each font of Fira Mono contains ~1500 glyphs now!
 
 - increase SB of /underscore (uni005F) and /underscoredbl (uni2017)
 Thanks, Fred Mora
-
 - introduce new /r (uni0072) > see # 49 GitHub
-
 - add currency symbols (default, tosf)
 /Liraturkish (uni20BA) 
 /Ruble (uni20BD)
-/RupeeIndian (uni20B9)
-
+/RupeeIndian (uni20B9
 - edit /Yat-cy (uni0462) and Izhitsa-cy (uni0474 / uni0475) 
 Thanks, Prof. Dr. Sebastian Kempgen
-
 - place varia and oxia before uc letters (e.g. uni1FBA / uni1FBB)
 Thanks, Prof. Dr. Sebastian Kempgen
-
 - new line height value see above 4.001
 
 
 Solved Issues tagged „BUG“ on GitHub 
-
 - #49 Mono r looks like dotlessi at small sizes 
 Thanks, rudd-v-a.
-
 - #56 Cannot select Fira Mono as monospaced font under KDE 
 Note: 
 We exported nonspacing accents again. Recognition as „monospaced“ should work anyway due to a change in export routine in Glyphs. Please report if not!
@@ -234,10 +227,8 @@ Thanks, houserockr and Georg.
 Thanks Friedel, Jonathan & Dwayne!
 
 Solved Issues tagged „BUG“ on GitHub 
-
 - #64 Delete positive kerning between f and u … Finally ;) 
 Thank you charakterziffer.
-
 - #74 Shifted double quotes using WOFF file 
 Thank you mdesantis and Georg.
 
