@@ -181,9 +181,7 @@ This change affects existing layouts if default line height is selected.)
 
 Solved Issues tagged „BUG“ on GitHub 
 
-- _#65
-CSS, Greek & Safari 
-Secure correct replacement of accented Greek uppercase/sc letters by unaccented letters via calt feature
+- #65 CSS, Greek & Safari Secure correct replacement of accented Greek uppercase/sc letters by unaccented letters via calt feature
 Thanks, wfdd
 
 ## version/build MONO 3.200
@@ -218,12 +216,10 @@ Thanks, Prof. Dr. Sebastian Kempgen
 
 Solved Issues tagged „BUG“ on GitHub 
 
-- _#49
-Mono r looks like dotlessi at small sizes 
+- #49 Mono r looks like dotlessi at small sizes 
 Thanks, rudd-v-a.
 
-- _#56
-Cannot select Fira Mono as monospaced font under KDE 
+- #56 Cannot select Fira Mono as monospaced font under KDE 
 Note: 
 We exported nonspacing accents again. Recognition as „monospaced“ should work anyway due to a change in export routine in Glyphs. Please report if not!
 Thanks, houserockr and Georg.
@@ -239,13 +235,10 @@ Thanks Friedel, Jonathan & Dwayne!
 
 Solved Issues tagged „BUG“ on GitHub 
 
-- _#64
-Delete positive kerning between f and u 
-… Finally ;) 
+- #64 Delete positive kerning between f and u … Finally ;) 
 Thank you charakterziffer.
 
-- _#74 
-Shifted double quotes using WOFF file 
+- #74 Shifted double quotes using WOFF file 
 Thank you mdesantis and Georg.
 
 
@@ -295,22 +288,18 @@ Add currency symbols (default, osf, tf, tosf)
 
 Issues tagged „BUG“ on GitHub 
 
-- _#57
-line positioning in ie
+- #57 line positioning in ie
 Vertical metrics of official version remains unchanged until the test version is confirmed by so0ft on GitHub.
 Setting typoLineGap to zero might lead to vertical metrics conflicts in other layouts/circumstances.
 
-- _#59
-FsType indicating restricted embedding and subsetting 
+- #59 FsType indicating restricted embedding and subsetting 
 fsType was „editable“, now set to „not set“ (installable). Should solve the problem.
 Thank you n7s.
 
-- _#64
-Delete positive kerning between f and u caused by a transfer glitch from FL to Glyphs
+- #64 Delete positive kerning between f and u caused by a transfer glitch from FL to Glyphs
 Thank you charakterziffer.
 
-- _#66
-Greek tonos capitals with negative SB
+- #66 Greek tonos capitals with negative SB
 Added some SB in the Black master of the following glyphs to ensure they don’t overlay the space in the bold weights. 
 Thank you wfdd.
 
