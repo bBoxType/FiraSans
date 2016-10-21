@@ -87,7 +87,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 - Addition of currency symbols (#55 – 101)
 - Addition of ligatures ff, fj, ft, ffj, fft (#53 #180)
 
-- fixed bugs/requests mentioned on GitHub:
+fixed bugs/requests mentioned on GitHub:
 - #130 (/longs missing in Upright)
 - #121 (wrong letter – interpolation glitch)
 - #147 (Greek polytonic accents)
