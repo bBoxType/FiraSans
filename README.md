@@ -158,13 +158,10 @@ Expand Fira to comprise the following unicode blocs (added appr. 500 glyphs sinc
 Each font of Fira Sans contains ~2600 glyphs now!
 
 - re-introduce curly ampersand in Italic; also added it in Roman. Accessible via .ss03 OR type ‚ #& ’ (replacement via calt feature)
-
 - eliminate interpolation glitch in Italic [light master of /exclam (uni0021)]
 Thanks, Ralf Trinler
-
 - edit /Yat-cy (uni0462) and Izhitsa-cy (uni0474 / uni0475) 
 Thanks, Prof. Dr. Sebastian Kempgen
-
 - place varia and oxia before uc letters just as other Greek uc diacritics (e.g. uni1FBA / uni1FBB)
 Thanks, Prof. Dr. Sebastian Kempgen
 
@@ -222,7 +219,6 @@ Thanks, houserockr and Georg.
 
 - add some Celtic characters, now providing full support for ISO-Latin 1–10 
 - add /literSign (uni2113) 
-
 - increase lSB of /napostrophe (uni0149); introduce positive kerning between upper quotes and /napostrophe
 Thanks Friedel, Jonathan & Dwayne!
 
@@ -237,27 +233,23 @@ Thank you mdesantis and Georg.
 
 - increase space between apostrophe and n in /napostrophe (uni0149) 
 Thanks, Friedel!
-
 - fix few interpolation glitches
-
 
 ## version/build 4.002
 
-- expand Fira to comprise the following unicode blocs (added another 200 glyphs since 4.001)
+Expand Fira to comprise the following unicode blocs (added another 200 glyphs since 4.001)
 
-Latin Extensions A (uni0100 – 017F)
-Latin Extensions B (uni0180 – 024F)
-IPA Extensions (uni0250 – 02AF)
+- Latin Extensions A (uni0100 – 017F)
+- Latin Extensions B (uni0180 – 024F)
+- IPA Extensions (uni0250 – 02AF)
 
 Each font of Fira contains ~2100 glyphs now!
 
 - add anchors for combining accent support for IPA and Pan African
-Beta status!! 
-Please report if several combinations might not work due to missing anchors. We’ll fix it. Thanks!
+Beta status!! Please report if several combinations might not work due to missing anchors. We’ll fix it. Thanks!
 
 - set CSS weight class to 100 for weights thin and below
 - multiple minor improvements
-
 
 ## version/build 4.001
 
@@ -282,29 +274,24 @@ Issues tagged „BUG“ on GitHub
 - #57 line positioning in ie
 Vertical metrics of official version remains unchanged until the test version is confirmed by so0ft on GitHub.
 Setting typoLineGap to zero might lead to vertical metrics conflicts in other layouts/circumstances.
-
 - #59 FsType indicating restricted embedding and subsetting 
 fsType was „editable“, now set to „not set“ (installable). Should solve the problem.
 Thank you n7s.
-
 - #64 Delete positive kerning between f and u caused by a transfer glitch from FL to Glyphs
 Thank you charakterziffer.
-
 - #66 Greek tonos capitals with negative SB
 Added some SB in the Black master of the following glyphs to ensure they don’t overlay the space in the bold weights. 
 Thank you wfdd.
-
-/Epsilontonos (uni0388)
-/Etatonos (uni0389)
-/Iotatonos (uni038A)
-/Omicrontonos (uni038C)
-/Upsilontonos (uni038E)
+- /Epsilontonos (uni0388)
+- /Etatonos (uni0389)
+- /Iotatonos (uni038A)
+- /Omicrontonos (uni038C)
+- /Upsilontonos (uni038E)
 
 ## version/build 3.111
 
 -  TTFautohint via Glyphs 2 developer Beta GUI for TTF export
 -  fixed zero width glyphs with no zero value in Italic (PDFs stay version 3110, just renamed the zip-folder)
-
 
 ## version/build 3.110
 
@@ -312,7 +299,6 @@ Thank you wfdd.
 -  fixed interpolation glitches coming with new behavior of anchors in Glyphs2 Beta
 -  fixed zero width glyphs with no zero value in Mono
 -  legibility improvement for code applications: braces, brackets and parens in Mono
-
 
 ## version/build 3.109
 
@@ -325,10 +311,8 @@ Thank you wfdd.
 ? Arabic (should not become lower)
 ? Vietnamese (should not become higher)
 
-
 -  fixed zero width glyphs with no zero value
 -  fixed PS hinting issues coming up changing grid in the very thin weights
-
 
 ## version/build 3.108
 
@@ -337,7 +321,6 @@ Thank you wfdd.
 - panose information for single weights
 - Italic: uni0414 De-cyr in upright shape – commissioned by mozilla, but handwritten shape will come back with Bulgarian and Serbian localized feature in 3.2 ;) –
 - zip-archives without Mac-Resources
-
 
 ## version/build 3.107
 
@@ -355,20 +338,17 @@ If you have any issues with increased linespacing, make sure your render engine 
 - New grid export parameters for Two, Four, Eight and Hair
 - UFO source files instead of Glyphs-files
 
-
 ## version/build 3.106
 
 - aogonec uni0105 > nicer connection
 - outline corrections concerning some interpolation glitches
 - web font formats added (beta version only)
 
-
 ## version/build 3.105
 
 - smaller kerning issues
 - minor outline corrections concerning interpolation issues
 - T cedilla centered in Mono
-
 
 ## version/build 3.104
 
@@ -377,7 +357,6 @@ If you have any issues with increased linespacing, make sure your render engine 
 - all Bold weights from 160 to 158 (better results with hinting)
 - j Mono: wider shape
 - g Mono: equal style to Sans now (lower terminal)
-
 
 ## version/build 3.103
 
@@ -388,7 +367,6 @@ If you have any issues with increased linespacing, make sure your render engine 
 - fixed /hcircumflex accent position in lighter weights
 - adding SmallCaps for free valuation service: adding as much composites as possible via Glyph 1.4.4 database from 3.001
 
-
 ## version/build 3.102
 
 - improved for el-cyrillic / all cases л Л л.sc
@@ -396,11 +374,9 @@ If you have any issues with increased linespacing, make sure your render engine 
 - minor kerning issues for punctuation
 - minor spacing issues
 
-
 ## version/build 3.101
 
 - no more empty glyphs in CYR
-
 
 ## version/build 3.100
 
