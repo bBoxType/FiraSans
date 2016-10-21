@@ -1,6 +1,6 @@
-## Fira Sans 4.2 * NEW *
-## Fira Code 3.2 * NEW *
-## Fira Mono 3.2
+### Fira Sans 4.2 * NEW *
+### Fira Code 3.2 * NEW *
+### Fira Mono 3.2
 
 Fira is a trademark of The Mozilla Corporation.
 Digitized data copyright © 2012-2016, The Mozilla Foundation and Telefonica S.A.
@@ -10,13 +10,13 @@ Digitized data copyright © 2012-2016, The Mozilla Foundation and Telefonica S.A
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-## Note:
+### Note:
 
 All weights below “Thin” use fractional coordinates which is an optical decision. Rendering engines might not be able to deal with that correctly. As for that, these weights should be seen as an experiment by now. If you notice any problems in smaller sizes please consider to use weights from thin.
 
 Weight “Ultra” is intended for extreme display usage. It is the result of an extrapolation (198 to 222) which is not optimized in typographical details. Please consider to use “Heavy” instead if problems occur.
 
-## FIRA font weights:
+### FIRA font weights:
 
 - Two 			(2em / CSS 100)
 - Four 			(4em / CSS 100)
@@ -36,14 +36,14 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 * Heavy 		(198em / CSS 900)
 - Ultra 		(222em / CSS 950)
 
-## FIRA MONO font weights:
+### FIRA MONO font weights:
 
 * Regular 	(84em / CSS 400)
 * Medium 		(112em / CSS 500)
 * Bold  		(158em / CSS 700)
 
 
-## ! THANK YOU ! MERCI ! DANKE ! Dziękuję !  Gracias ! Kiitos ! Obrigado ! Спасибо !
+### ! THANK YOU ! MERCI ! DANKE ! Dziękuję !  Gracias ! Kiitos ! Obrigado ! Спасибо !
 
 - Patryk Adamczyk and his colleagues at Mozilla Foundation and Mozilla Corporation for trust and huge support over the last years
 - Christine Sunkel at EdenSpiekermann for project management, organization and her patience.
@@ -53,7 +53,7 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 - Georg Seifert, Andreas Eigendorf and Adam Twardoch for all-time technical support and advice
 - Finally: the whole community who helped improving Fira via Mail, GitHub and FireBug!
 
-## NEXT STEPS 
+### NEXT STEPS 
 
 - Arabic _ in progress
 - Hebrew _ in progress
@@ -62,9 +62,11 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 
-## FIRA VERSION LOG
+### FIRA VERSION LOG
 
-## version/build 4.203 (Sans only)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+### version/build 4.203 (Sans only)
 
 - fixed #2 (LineHeight, Hinting) – thanks Ray
 - fixed #3 (Ligatures in Roman files) – thanks BonnEconLab
@@ -72,7 +74,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-## Fira Code 3.206
+### Fira Code 3.206
 
 - Fira Code is Fira Mono 3.206 with less Line Space (1.0) – does not include programming ligatures 
 - fixed bug #156 (swapped /BoxLightDown /BoxLightUp)
@@ -80,7 +82,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 
-## version/build 4.202 (Sans only)
+### version/build 4.202 (Sans only)
 
 - Fira Condensed & Fira Condensed Italic now covering complete Glyph range of Fira 4.1 (see below)
 - New: Fira Compressed & Fira Compressed Italic
