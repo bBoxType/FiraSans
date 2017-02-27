@@ -1,5 +1,7 @@
-### Fira Sans 4.2 * NEW *
-### Fira Code 3.2 * NEW *
+### Fira Sans web subset * NEW *
+
+### Fira Sans 4.2 
+### Fira Code 3.2
 ### Fira Mono 3.2
 
 Fira is a trademark of The Mozilla Corporation.<br>
@@ -57,12 +59,22 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 
 - Arabic _ in progress
 - Hebrew _ in progress
+- Thai _ in progress
+- Georgian _ in progress
+- Devanagari _ in progress
+
 - Mono 4.1 (Latin Extension) on pause
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 
 ### FIRA VERSION LOG
+
+## version/build 4.203 (Sans only)
+
+- web subsets for Latin only 
+- file size 24-32K
+- weights skipped: Two, Four, Eight & Ultra
 
 ## version/build 4.203 (Sans only)
 
