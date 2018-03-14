@@ -3,9 +3,9 @@
 ### Fira Mono 3.2
 
 Fira is a trademark of The Mozilla Corporation.<br>
-Digitized data copyright © 2012-2016, The Mozilla Foundation and Telefonica S.A.
+Digitized data copyright © 2012-2018, The Mozilla Foundation and Telefonica S.A.
 
-Design 2012-2015: Carrois Corporate GbR & Edenspiekermann AG<br>
+Design 2012-2016: Carrois Corporate GbR & Edenspiekermann AG<br>
 Design 2016 and later: Carrois Corporate GbR
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
