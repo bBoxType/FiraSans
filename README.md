@@ -68,7 +68,42 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 
-### FIRA VERSION LOG
+
+## FIRA VERSION LOG
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+
+### version/build 4.300 (Sans only)
+
+LOCL FEATURES
+
+_ loclHUN / hungarianumlaut (thanks, Thorsten)
+_ loclBGR (also available via stylistic set 01) for Cy-EXT range in cooperation with Bulgarian Type Designers Botio Nikoltchev and Vassil Kateliev
+_ ДЛФЉҔҦԪԬԮӅӺӼԈԒԔԠбгѓджийҋѝкќлптцшщџљюғҕҗқҝҥҧԥҭҵԫԭԯӂӄӆӣӥӷӻӽԉԏԓԕԡ + their .sc
+_ loclSRB, loclMKD
+
+ISSUES/FIXES
+
+_ Optimize position or insert anchors for greek polytonic > ζ, ξ, ς, ψ (thanks, disk0x)
+_ Italic: /pe-cy now has a real Italic shape
+_ Italic: moved descender of /gedescender-cy (uni04F7) to the right
+_ fixed an anchor issue with ɨ́  (thanks, Denis)
+_ fixed an anchor issue with 031A COMBINING LEFT ANGLE ABOVE (thanks, Denis)
+_ Moved ligatures f_f, f_f_i, f_f_j, f_j, f_f_l to liga-feature. They are standard now.
+_ Removed f_t ligature (see next point)
+_ introduced stylistic alternative short_f in combination with ascender letters (like h, t, k, …). Replacement via calt-feature
+_ few optimized kerning pairs (thanks, Thorsten)
+_ added uni1D7B /idotlessstroke (thanks, Ray)
+added uni0305 /overlinecomb (thanks, Ray)
+_ added uni25BA and uni25C4
+_ changed descender of zedescender-cy.sc to match the according uppercase and lowercase letters
+_ re-structured calt-feature for Greek (disappearing accents in all cap use)
+_ deleted acute in /UpsilonacutehookSymbol.sc (disappearing accents in all cap use)
+_ little changes of overall Metrics of Regular Master (text might wrap differently)
+_ added some glyphs for Mac OSX system requirements (thanks, Jens)
+_ plenty of smaller fixes
+
 
 ## version/build 4.203 (Sans only)
 
