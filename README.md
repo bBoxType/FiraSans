@@ -1,6 +1,4 @@
 ### Fira Sans 4.3 * NEW *
-
-### Fira Sans 4.3 
 ### Fira Code 3.2
 ### Fira Mono 3.2
 
