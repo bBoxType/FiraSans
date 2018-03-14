@@ -1,6 +1,6 @@
-### Fira Sans web subset * NEW *
+### Fira Sans 4.3 * NEW *
 
-### Fira Sans 4.2 
+### Fira Sans 4.3 
 ### Fira Code 3.2
 ### Fira Mono 3.2
 
@@ -57,16 +57,11 @@ Weight “Ultra” is intended for extreme display usage. It is the result of an
 
 ### NEXT STEPS 
 
-- Arabic _ in progress
-- Hebrew _ in progress
-- Thai _ in progress
-- Georgian _ in progress
-- Devanagari _ in progress
-
-- Mono 4.1 (Latin Extension) on pause
+- All upcoming extensions will be based on FiraGO.
+- Fira Sans version 4.3 will be the last version for the time being. 
+- Fira Mono on pause
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-
 
 
 ## FIRA VERSION LOG
