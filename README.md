@@ -2,12 +2,12 @@
 # Fira Code 3.2
 # Fira Mono 3.2
 
-## Fira is a trademark of The Mozilla Corporation.
+- Fira is a trademark of The Mozilla Corporation.
 
-## Digitized data copyright 2012-2018, The Mozilla Foundation and Telefonica S.A., bBox Type GmbH and Carrois Corporate GbR, with Reserved Font Name "Fira" 
+- Digitized data copyright 2012-2018, The Mozilla Foundation and Telefonica S.A., bBox Type GmbH and Carrois Corporate GbR, with Reserved Font Name "Fira" 
 
-### Design 2012-2015: Carrois Corporate GbR & Edenspiekermann AG
-### Design 2016 and later: bBox Type GmbH
+- Design 2012-2015: Carrois Corporate GbR & Edenspiekermann AG
+- Design 2016 and later: bBox Type GmbH
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
